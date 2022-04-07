@@ -1,8 +1,13 @@
 require('Spoons/hello')
 require "Spoons/window-management" -- 窗口管理
-require "Spoons/clipboard" -- 丰富粘贴板
+require "Spoons/clipboard" -- 粘贴板
 require "Spoons/ime" -- 设置各种应用的默认输入法
+require "Spoons/volume" -- 控制声音
+require "Spoons/wifi" -- wifi切换
 require "Spoons/weather" -- 天气 todo
+
+-- todo
+-- 公司 wifi 自动将声音设置为静音
 
 -- 配置文件保存失效a
 function reloadConfig(files)
