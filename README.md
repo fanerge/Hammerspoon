@@ -1,6 +1,11 @@
 Hammerspoon
 mac-自定义小工具🔧
-以下内容多参考于网络
+使用步骤
+1.	安装 hammerspoon
+2.	copy 至 ~/.hammerspoon/中
+3.	reload config
+
+
 
 #   先有功能
 ```
